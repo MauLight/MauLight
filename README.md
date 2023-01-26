@@ -18,7 +18,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
 
 ### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="30"> from Chile!
   :computer: I’m a Software Developer, contributing in frontend and backend for building web applications.
