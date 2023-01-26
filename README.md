@@ -19,7 +19,6 @@
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600" height="300"/>
-  ---
 
 ### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="30"> from Chile!
   :computer: I’m a Software Developer, contributing in frontend and backend for building web applications.
@@ -29,7 +28,6 @@
   :zap: I'm also a screenwriting teacher with students from all over the world! => [![Linkedin Badge](https://img.shields.io/badge/-screenwriters'quest-orange?style=flat)](https://screenwriters.quest/)
   <br>
   :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MauLuz-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mauluz/)
----
 
 ### :hammer_and_wrench: Languages and Tools :
   <div>
@@ -53,6 +51,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" **alt="After Effects" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" **alt="Premiere Pro" width="40" height="40"/>
 </div>
+</div>
+<div align="center">
+  ---
+
+### :fleur_de_lis: My Stats :
 </div>
 
 
